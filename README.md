@@ -5,6 +5,7 @@ A set of examples for each of the seven types of joins in spark.
 
 - An easy-to-follow example for each of the seven types of joins in spark (Inner join, Left join, Right join, Full join, Left anti join, Left semi join and Cross join).
 - Descriptions for each type of join.
+- Pyspark code.
 - Equivalent spark SQL code.
 - Equivalent standard SQL code where applicable.
 - Synonyms available for each type of join.
