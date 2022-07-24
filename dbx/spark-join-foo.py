@@ -215,10 +215,10 @@ display(dfA.join(dfB, dfA.key == dfB.key, how = 'right')) # synonyms: 'rightoute
 # MAGIC | 1 | abc | def | 1 | cbs | fed |
 # MAGIC | 2 | 123 | 456 | 2 | 321 | 654 |
 # MAGIC | 2 | 123 | 456 | 2 | dup321 | dup654 |
-# MAGIC | 4 | null | null | 4 | ??? | !!! |
+# MAGIC | null | null | null | 4 | ??? | !!! |
 # MAGIC | 5 | a1b1 | c2d2 | 5 | 1b1a | 2d2c |
 # MAGIC | 5 | a1b1 | c2d2 | 5 | 1b1a | 2d2c |
-# MAGIC | 6 | null | null | 6 | wtf | wow |
+# MAGIC | null | null | null | 6 | wtf | wow |
 
 # COMMAND ----------
 
