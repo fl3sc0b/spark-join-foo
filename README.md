@@ -10,4 +10,4 @@ A set of examples for each of the seven types of joins in spark.
 - Equivalent standard SQL code where applicable.
 - Synonyms available for each type of join.
 - Expected output annotations (order might be slightly different due to spark operations).
-- Databricks pyspark notebook and single pyspark code versions.
+- Databricks pyspark notebook and standalone pyspark code versions.
